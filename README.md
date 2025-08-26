@@ -4,7 +4,7 @@
 
 The document provides My Learnings on Electrical Engineering from January 2025 - August 2025. It includes power & signal integrity, semiconductors, microelectronics,  PCB design & layout + stack up, filters, power systems, motors, control systems, some signal processing, microelectronics, communication protocols, motors, and general principles on passive and active components.
 
-This ReadMe is super underwhelming to the scale that is the 39000+ words, 144 pages, all of concise text and graphics, plus carefully chosen resources in electronics that is in Literature. 
+This ReadMe is super underwhelming to the scale that is the 39000+ words, 144 pages, all of concise text and graphics in My Learnings, plus all tge carefully chosen resources in electronics that is in Literature. 
 
 **Check it out!** 
 
