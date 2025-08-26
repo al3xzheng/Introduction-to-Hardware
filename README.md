@@ -1,13 +1,15 @@
-My Learnings...
+# **My Learnings...**
 
-Please check out the document above to learn more about my documentation on my electronics / electrical engineering journey.
-This document provides My Learnings on Electrical Engineering from January 2025 - August 2025.
+## Please check out the document above "_My Learnings_" and resources in "_Literature_" to learn more about my documentation on my electronics / electrical engineering journey.
 
-It includes power & signal integrity, filters, control systems, some signal processing, microelectronics, communication protocols, motors, and general principles on passive and active components.
+The document provides My Learnings on Electrical Engineering from January 2025 - August 2025. It includes power & signal integrity, semiconductors, microelectronics,  PCB design & layout + stack up, filters, power systems, motors, control systems, some signal processing, microelectronics, communication protocols, motors, and general principles on passive and active components.
 
-This ReadMe is super underwhelming to the scale that is the 39000 word document, 144 pages of concise text and graphics... Check it out! You'll definitely learn something, and maybe something that
-which you were looking for!
+This ReadMe is super underwhelming to the scale that is the 39000+ words, 144 pages, all of concise text and graphics, plus carefully chosen resources in electronics that is in Literature. 
 
-Please check out the headings tab to browse through.
+**Check it out!** 
 
-Additionally, I have attached very interesting literature on electronics.
+_You'll definitely learn something, and maybe something that which you were looking for!_
+
+Note: Please use the headings tab in the PDF doc to browse through.
+
+> By: Alex Zheng
