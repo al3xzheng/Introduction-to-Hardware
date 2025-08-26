@@ -10,6 +10,6 @@ This ReadMe is super underwhelming to the scale that is the 39000+ words, 144 pa
 
 _You'll definitely learn something, and maybe something that which you were looking for!_
 
-Note: Please use the headings tab in the PDF doc to browse through.
+Note: Please use the headings tab in the PDF doc by first downloading it, to browse through.
 
 > By: Alex Zheng
